@@ -1,0 +1,1 @@
+jQuery((function(t){t((function(){t(".fl-node-59ea1afc6f4fd .fl-photo-img").on("mouseenter",(function(e){t(this).data("title",t(this).attr("title")).removeAttr("title")})).on("mouseleave",(function(e){t(this).attr("title",t(this).data("title")).data("title",null)}))})),window._fl_string_to_slug_regex="a-zA-Z0-9"}));
